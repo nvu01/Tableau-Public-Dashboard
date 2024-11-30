@@ -7,16 +7,16 @@ This project presents an interactive dashboard titled "U.S. YouTube Video Trends
 ## Dashboard Overview
 The dashboard consists of four interactive visualizations that offer unique insights into various aspects of YouTube trends:
 
-1. Likes vs. Dislikes Across YouTube Categories (Scatter Chart)
+1. Likes vs. Dislikes Across YouTube Categories (Scatter Chart):  
 This chart explores the relationship between the number of likes and dislikes for videos within different categories. It offers insights into viewer sentiment and how engagement varies by content type.
 
-2. Top 20 YouTube Channels (Bar Chart)
+2. Top 20 YouTube Channels (Bar Chart):  
 A bar chart that ranks the top 20 YouTube channels by total views. This visualization highlights the most influential content creators and provides a comparison of their reach and audience engagement.
 
-3. Video and View Counts by Category (Dual-Axis Bar Chart)
+3. Video and View Counts by Category (Dual-Axis Bar Chart):  
 This dual-axis chart compares the number of videos and total view counts across various YouTube categories. It helps to identify which categories are most popular in terms of content volume and viewer engagement.
 
-4. Top YouTube Categories by State (Interactive Map)
+4. Top YouTube Categories by State (Interactive Map):  
 An interactive map showing the most popular YouTube categories in each U.S. state. This visualization offers a regional perspective on video trends and helps understand geographic differences in content preferences.
 
 ## Project Files
