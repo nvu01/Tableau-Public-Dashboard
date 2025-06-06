@@ -1,12 +1,15 @@
-# U.S. YouTube Video Trends Dashboard
-This project presents an interactive dashboard titled "U.S. YouTube Video Trends", created using Tableau Public. The dashboard visualizes key metrics from trending YouTube videos across the U.S. and provides insights into video performance, viewer sentiment, and regional content preferences.
+# U.S. YouTube Video Trends Dashboard and Story
+For this project, I created an interactive Tableau dashboard and story titled "U.S. YouTube Video Trends" using Tableau Public. 
+I explored trending YouTube videos across the U.S. to uncover insights into viewer sentiment, content performance, and regional preferences.
 
-## Link to Interactive Dashboard
-You can access the interactive dashboard here:
-[U.S. YouTube Video Trends Dashboard](https://public.tableau.com/app/profile/ngan.vu3144/viz/U_S_YouTubeVideoTrends/U_S_YouTubeVideoTrends)
+## Links to Interactive Dashboard and Story
 
-## Dashboard Overview
-The dashboard consists of four interactive visualizations that offer unique insights into various aspects of YouTube trends:
+[Dashboard](https://public.tableau.com/app/profile/ngan.vu3144/viz/U_S_YouTubeVideoTrends/U_S_YouTubeVideoTrends)
+
+[Story](https://public.tableau.com/app/profile/ngan.vu3144/viz/StoryU_S_YouTubeVideoTrends/Story)
+
+## Key Visualizations
+There are four interactive visualizations that offer unique insights into various aspects of YouTube trends:
 
 1. **Likes vs. Dislikes Across YouTube Categories (Scatter Chart)**: 
 This chart explores the relationship between the number of likes and dislikes for videos within different categories. It offers insights into viewer sentiment and how engagement varies by content type.
@@ -22,8 +25,8 @@ An interactive map showing the most popular YouTube categories in each U.S. stat
 
 ## Project Files
 - **Project Description.pdf**: Detailed description of the dataset, visualizations, and key findings.
-- **youtubedata.zip**: The dataset used for the dashboard, which includes the raw data used for analysis and visualization.
+- **youtubedata.zip**: The raw data used for analysis and visualization.
 - **YouTube.twbx**: A Tableau workbook containing interactive visualizations showcasing various aspects of the dataset.
 
 ## Prerequisites
-Before you begin using the **U.S. YouTube Video Trends Dashboard**, ensure that you have **Tableau Desktop** or **Tableau Public**.
+Before you begin using **YouTube.twbx**, ensure that you have **Tableau Desktop** or **Tableau Public**.
